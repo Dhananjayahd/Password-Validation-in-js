@@ -1,0 +1,63 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-transform: capitalize;
+
+}
+header{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 5px;
+}
+
+h2.sign{
+    padding: 5px;
+    margin: 10px;
+    
+}
+.p{
+    font-size: 15px;
+    padding: 5px;
+}
+.in{
+    padding: 0px;
+    margin-left: 10px;
+    text-align: center;
+}
+.myform{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin: 0px auto 0px auto;
+    padding-bottom: 10px;
+}
+
+.but{
+    border: none;
+    outline: none;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.but:hover{
+    background-color: red;
+    color: black;
+}
+
+#demo{
+    margin:0px;
+    position: relative;
+    top: -10px;
+    left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 6px;
+    color: red;
+    
+
+}
